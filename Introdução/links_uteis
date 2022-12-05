@@ -7,14 +7,15 @@ Instalar o GitHub Desktop
 
 Sobre a instalação do GitHub Desktop
 
-Você pode instalar GitHub Desktop em sistemas operacionais compatíveis, que incluem atualmente MacOS 10.12 ou posterior e Windows 7 64-bit ou versão posterior. Se você tiver uma conta em GitHub ou GitHub Enterprise, você pode conectar sua conta ao GitHub Desktop. Para obter mais informações sobre como criar uma conta, confira "Como se inscrever para uma nova conta do GitHub" ou entre em contato com o administrador do site do GitHub Enterprise.
+Você pode instalar GitHub Desktop em sistemas operacionais compatíveis, que incluem atualmente MacOS 10.12 ou posterior e Windows 7 64-bit ou versão posterior. Se você tiver uma conta em GitHub ou GitHub Enterprise, você pode conectar sua conta ao GitHub Desktop. Para obter mais informações sobre como criar uma conta, basta copiar o link abaixo e colar eu seu navegador.
+
+https://docs.github.com/pt/articles/signing-up-for-a-new-github-account
 
 Se você é um administrador de rede, implante o GitHub Desktop para os computadores que executam o Windows em uma rede gerenciada pelo Active Directory usando o arquivo de pacote do Windows Installer (.msi) com a Política de Grupo ou outro sistema de instalação remota.
 
 O pacote do Windows Installer extrai o instalador autônomo (.exe) e configura o Windows para instalar o GitHub Desktop na próxima vez que um usuário se conectar à estação de trabalho. Os usuários devem ter permissão para instalar o GitHub Desktop em seus respectivos diretórios.
 
 Se um usuário executa o pacote do Windows Installer para GitHub Desktop diretamente, para completar a instalação, o usuário deve sair da sua estação de trabalho e depois iniciar a sessão novamente.
-Baixar e instalar o GitHub Desktop
 
 Você pode instalar o GitHub Desktop nas versões Windows 7 64-bit ou versão posterior.
 
